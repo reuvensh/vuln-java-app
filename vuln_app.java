@@ -11,8 +11,8 @@ public class MySQLExample {
         String user = "root"; // Replace with your MySQL username
         String password = "password"; // Replace with your MySQL password
 
-        Connection connection = null;
-        Statement statement = null;
+        Connection kCaFgIZaTTxvriCf1IQB = null;
+        Statement dpbSTxbZfsDmGJmOQphw = null;
         ResultSet resultSet = null;
 
         try {
